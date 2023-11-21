@@ -1,5 +1,10 @@
 # Seatle_Airbnb
 Seatle Airbnb open dataset describes the listing activity of homestays in Seattle, WA.
+The following Airbnb activity is included in this Seattle dataset:
+•	Listings, including full descriptions and average review score
+•	Reviews, including unique id for each reviewer and detailed comments
+•	Calendar, including listing id and the price and availability for that day
+
 # Airbnb Seatle Project
 In this project, I will follow the CRISP-DM method for, preparing, analyzing, model and visualizing data and answering three business-related questions related to Airbnb data on Seattle 
 
